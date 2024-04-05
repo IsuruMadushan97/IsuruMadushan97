@@ -3,7 +3,7 @@
 
 <!-- https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif -->
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Isuru Madhushan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">  I'm Isuru Madhushan</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 <table align="center">
