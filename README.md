@@ -14,7 +14,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM**
 
-- 🧑‍🎓 I’m an Postgraduate at **RMIT**
+- 🧑‍🎓 I’m a Postgraduate at **RMIT**
 
 - 💬 Ask me about **Java**
 
